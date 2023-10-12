@@ -1,0 +1,73 @@
+{
+  "books": [
+    {
+      "name": "Alice's Adventures in Wonderland",
+      "number_page": 205,
+      "author_id": 1
+    },
+    {
+      "name": "Anne of Green Gables",
+      "number_page": 123,
+      "author_id": 2
+    },
+    {
+      "name": "Jane Eyre",
+      "number_page": 420,
+      "author_id": 3
+    },
+    {
+      "name": "To Kill a Mockingbird",
+      "number_page": 302,
+      "author_id": 3
+    },
+    {
+      "name": "Charlotte's Web",
+      "number_page": 234,
+      "author_id": 4
+    },
+    {
+      "name": "The Great Gatsby",
+      "number_page": 523,
+      "author_id": 1
+    },
+    {
+      "name": "One Hundred Years of Solitude",
+      "number_page": 334,
+      "author_id": 1
+    },
+    {
+      "name": "A Passage to India",
+      "number_page": 193,
+      "author_id": 1
+    },
+    {
+      "name": "The Catcher in the Rye",
+      "number_page": 496,
+      "author_id": 1
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Lewis Carroll"
+    },
+    {
+      "id": 2,
+      "name": "Lucy Maud"
+    },
+    {
+      "id": 3,
+      "name": "Charlotte Brontë"
+    },
+    {
+      "id": 4,
+      "name": "Harper Lee"
+    }
+  ],
+  "users": [
+    {
+      "username": "bob",
+      "hashed_password": "$2b$12$nr5Sq.Ty98GnDNDBV1Aoz.6Y/oG7/Cd2HUAfKBO7eNMogdvl47MdG"
+    }
+  ] 
+}
